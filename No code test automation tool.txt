@@ -1,0 +1,22 @@
+1. Katalon studio - No script, web,mobile and desktop UI automation tool, open source.
+2. Perfecto Scriptless/Test Craft - Web, mobile, API, AI based, Cross browser, cloued based, reporting, debugging
+3. Tosca- End to end testing, UI, API, Mobile, disadv- License based version
+4. TestingWhiz- Web app, Webservice, UI, mobile, Play and record.
+5. Test Project-Open source
+6. MicrofocusUFT-Web, API
+7. Selenium IDE- Web application, open source
+8. Accelq-Codeless tool, salesforce
+9.Test Craft- UI
+10.LambdaTest-Cross browser testing
+11. TestSigma- Open source,cloud based,web, mobile, API.
+
+Katalon - Web, Mobile, API - Open Source, Scripting mode is also available. CI/CD tool is applicable.Cross broser testing, Screen shot for failure features. 
+Script creation is limited to JAVA and Groovy language only.
+
+Tosca - Supports multiple platforms, License based version, Functional testing
+Performance is slow, High cost.
+
+TestingWhiz-Support UI and API, License based version, Integrate with Jira and test rail,Failure screenshot is available, 
+
+TestSigma - Web-based automation tool,API, Integration is made with JIRA and Jenkins,Cross bowser testing is also possible.Open source.
+Report is not clear

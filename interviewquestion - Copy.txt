@@ -1,0 +1,20 @@
+How do you do your regression suite automation in API
+tell me your exp
+how we will handle webpop up window
+explain framework structure
+code for fluent wait
+code for palindrome
+in jira how we can delete all the deferred bugs in a single click
+tell me about JIRA
+when you will give the signoff
+how will you write the test stratergy report
+for writing framework scratch what are the things we need choose
+reason challenges you have faced in your framework
+handle 503, 401 mechanism
+updating code and how will we merge the code
+scenario and scenario outline why we are using that
+how will you trigger the automation script in cucumber
+how will you generate step def file in cucumber
+have exp in UAT testing, how we will do that.
+framework is already there or we need to create from the scratch.
+
